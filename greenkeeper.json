@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "win32-x64/resources/app/package.json"
+      ]
+    }
+  }
+}
